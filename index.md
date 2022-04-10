@@ -1,91 +1,125 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jing Ke's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Jing Ke
+=======
 
+**Software Engineer** at [**MyScript**](https://www.myscript.com) (Permanent)
 
-## Currently
+- 📍 Nantes, France 🇫🇷
+- 📧 [jingkecn@gmail.com](mailto:jingkecn@gmail.com)
+- 📱 +33(0)6246*****
 
-Standing on the shoulders of giants
+Experience
+----------
 
-### Specialized in
+`2021 - Present`
+**Software Engineer** at [**MyScript**](www.myscript.com) (Windows Team)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+> 📍 Nantes, France 🇫🇷
 
+[`Nebo`](https://www.nebo.app)
+📝 **Windows .NET-C# & Native C++**
 
-### Research interests
+> Tech stack:
+> Application (**C#/XAML**), Language Projection (**C++** -> **C#**), SDK (**C++**).
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+[**Nebo**](https://www.nebo.app) is the frontline portal to introduce our **handwriting recognition** technologies,
+and is supposed to work across multiple platforms including **Windows**.
+Thus it's important to make our [SDK](https://www.myscript.com/sdk) APIs available on Windows,
+to make it possible to create functional features based on our [SDK](https://www.myscript.com/sdk).
+To achieve that, for each **user-oriented** feature / functionality,
+I must collaborate tightly with:
 
+- The **PM/UX** team, for better **requirements analysis** before starting to code.
+- The **SDK** team, from **API design** to concrete platform implementations.
+- The **Test** team, as a **TDD** engineer, to guarantee the **software quality**.
 
-## Education
+Besides, as a software engineer in the Windows team,
+I always attach importance, with **solid knowledge base**,
+to guarantee the **code quality** such as **efficiency**, **performance**, **maintainability** and **readability**.
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016 - 2020`
+**Software Engineer** at [**MyScript**](www.myscript.com) (Professional Services)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+> 📍 Nantes, France 🇫🇷
 
-- Sizar
+`Aura`
+📝 **Android & Windows .NET-C# & Native C++**
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Responsible for a **scribble-like input method** with multi-lingual handwriting recognition.
+- R&D on manipulations for **Pen vs. Touch** to automatically distinguish one from another.
+- Technical support for **e-ink** devices.
 
-- Fellow
+Projects
+--------
 
+`Open Ink`
+📝 [**Open Ink**](https://github.com/jingkecn/OpenInk.Windows/releases) is an open-source ink editor for **Windows**.
 
+- Based on [MyScript Interactive Ink SDK](https://developer.myscript.com/docs/interactive-ink/1.5/overview/about)
+- Project (C#/XAML): <https://github.com/jingkecn/OpenInk.Windows>
 
-## Awards
+`Math Pad`
+📝 [**Interactive Math Pad**](https://zhuanlan.zhihu.com/p/60476337) is a reproduction of **MyScript MathPad**
 
-`2012`
-President, *Royal Society*, London, UK
+- **Android** project (Kotlin/XML): <https://github.com/jingkecn/interactive-math-pad-android>
+- **Windows** project (C#/XAML): <https://github.com/jingkecn/interactive-math-pad-uwp>
 
-Associate, *French Academy of Science*, Paris, France
+`Trie.Net`
+📝 [**Trie.Net**](https://www.nuget.org/packages/Trie.Net.Standard) is a small, lean and generic implementation
+of a **Trie** for .Net.
 
+- Project (C#): <https://github.com/jingkecn/Trie.Net>
 
+`FSM.Net`
+📝 **FSM.Net** is an implementation of **Finite State Machine (FSM)** for .Net.
 
-## Publications
+- Project (C#): <https://github.com/jingkecn/FSM.Net>
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Education
+---------
 
-### Journals
+`2014 - 2017`
+**Sino-French Joint Dual-degree**
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+> 📍 Nantes, France 🇫🇷
 
-`1669`
-Lectiones opticæ.
+- 🇫🇷 **Polytech' Nantes**
+  - **Engineer's Degree**: Electronics and Digital Technologies
 
-etc. etc. etc.
+- 🇨🇳 **South China University of Technology (華南理工大學)**
+  - **Master's Degree**: Electronics and Information Engineering
 
-### Patents
+Skills
+------
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`Programming`
+**C/C++**, **C#**/XAML, HTML/CSS/JavaScript, Java, Kotlin, Swift
 
+`Frameworks`
+**.NET**, **C++/WinRT**, **C#/WinRT**, Node.js, Vue.js
 
-## Occupation
+`Methodologies`
+**Agile/Scrum**, **EDS**, **IoC**, **MVVM**, **TDD**
 
-`1600`
-__Royal Mint__, London
+`IDEs & Tools`
+Android Studio, **CMake**, **Git**, **Jenkins**, **MSBuild**, **Visual Studio**, Xcode
 
-- Warden
-- Minted coins
+`Modeling`
+**UML**, REST
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Languages
+---------
 
+- 🇨🇳 **Chinese** (Mandarin + Cantonese): **Native** 🗣
+- 🇬🇧 **English**: Professional working **proficiency**
+- 🇫🇷 **French**: Professional working **proficiency**
 
+See Also
+--------
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- **GitHub** 👉 <https://github.com/jingkecn>
+- **LinkedIn** 👉 <https://www.linkedin.com/in/jingkecn>
